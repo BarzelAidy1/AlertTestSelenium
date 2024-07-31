@@ -24,7 +24,7 @@ namespace SeleniumNUnitExample.Tests
         [SetUp]
         public void SetUp()
         {
-            string path = "T:\\הנדסת תוכנה\\שנה ב\\קבוצה ב\\תלמידות\\איידי ברזל\\SeleniumNUnitExample\\SeleniumNUnitExample\\Drivers";
+            string path = "C:\\Users\\user1\\Documents\\לימודי הנדסת תוכנה\\אוטומציה\\2\\SeleniumNUnitExample\\SeleniumNUnitExample\\Drivers";
 
             //Creates the ChomeDriver object, Executes tests on Google Chrome
 
